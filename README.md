@@ -1,6 +1,6 @@
 # ![Datapack Icon](Datapack/pack.png) Remove "Lava Chicken" Music Disc
 
-[Modrinth](https://modrinth.com/datapack/remove-lava-chicken-music-disc) | [CurseForge](https://www.curseforge.com/minecraft/data-packs/remove-lava-chicken-music-disc)
+[Modrinth](https://modrinth.com/datapack/remove-lava-chicken-music-disc) | CurseForge ([Datapack](https://www.curseforge.com/minecraft/data-packs/remove-lava-chicken-music-disc), [Mod](https://curseforge.com/minecraft/mc-mods/remove-lava-chicken-music-disc))
 
 This simple datapack removes the drop of the "Lava Chicken" music disc specifically from Chicken Jockeys (baby zombies riding chickens).
 
