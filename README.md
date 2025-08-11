@@ -42,4 +42,4 @@ This simple datapack removes the drop of the "Lava Chicken" music disc specifica
 
 ## Support
 
-💡 *Find a bug?* [Create an issue](https://github.com/yourusername/remove-lava-chicken-music-disc/issues) to help improve this datapack!
+❗ *Find a bug?* [Create an issue](https://github.com/yourusername/remove-lava-chicken-music-disc/issues) to help improve this datapack!
