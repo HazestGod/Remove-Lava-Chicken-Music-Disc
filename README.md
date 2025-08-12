@@ -1,8 +1,8 @@
-# ![Datapack Icon](Datapack/pack.png) Remove "Lava Chicken" Music Disc
+# ![Datapack Icon](/Data%20Pack/pack.png) Remove "Lava Chicken" Music Disc
 
-[Modrinth](https://modrinth.com/datapack/remove-lava-chicken-music-disc) | CurseForge ([Datapack](https://www.curseforge.com/minecraft/data-packs/remove-lava-chicken-music-disc), [Mod](https://curseforge.com/minecraft/mc-mods/remove-lava-chicken-music-disc))
+[Modrinth](https://modrinth.com/datapack/remove-lava-chicken-music-disc) | CurseForge ([Data Pack](https://www.curseforge.com/minecraft/data-packs/remove-lava-chicken-music-disc), [Mod](https://curseforge.com/minecraft/mc-mods/remove-lava-chicken-music-disc))
 
-This simple datapack removes the drop of the "Lava Chicken" music disc specifically from Chicken Jockeys (baby zombies riding chickens).
+This simple data pack removes the drop of the "Lava Chicken" music disc specifically from Chicken Jockeys (baby zombies riding chickens).
 
 **What it does:**
 
@@ -11,7 +11,7 @@ This simple datapack removes the drop of the "Lava Chicken" music disc specifica
 
 ## Installation
 
-[Download latest release](https://github.com/HazestGod/Remove-Lava-Chicken-Music-Disc/releases).
+[Download latest release.](https://github.com/HazestGod/Remove-Lava-Chicken-Music-Disc/releases)
 
 **For Datapack:**
 
@@ -42,4 +42,4 @@ This simple datapack removes the drop of the "Lava Chicken" music disc specifica
 
 ## Support
 
-❗ *Find a bug?* [Create an issue](https://github.com/yourusername/remove-lava-chicken-music-disc/issues) to help improve this datapack!
+⚠ *Find a bug?* [Create an issue](https://github.com/yourusername/remove-lava-chicken-music-disc/issues) to help improve this datapack!
