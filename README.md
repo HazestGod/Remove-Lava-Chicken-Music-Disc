@@ -13,7 +13,7 @@ This simple data pack removes the drop of the "Lava Chicken" music disc specific
 
 [Download latest release.](https://github.com/HazestGod/Remove-Lava-Chicken-Music-Disc/releases)
 
-**For Datapack:**
+**For Data Pack:**
 
 1. Download the `.zip` file.
 2. If your world is already created:
@@ -31,15 +31,15 @@ This simple data pack removes the drop of the "Lava Chicken" music disc specific
 
 ## Uninstallation
 
-*For Datapack:*
+**For Datapack:**
 
 - To temporarily disable the datapack, use `/datapack disable <datapack_name>`. To re-enable, use `/datapack enable <datapack_name>`.
 - To remove it completely, delete the datapack file from the `datapacks` folder.
 
-*For Modloader:*
+**For Modloader:**
 
 - Simply remove the `.jar` file from your `mods` folder.
 
 ## Support
 
-⚠ *Find a bug?* [Create an issue](https://github.com/yourusername/remove-lava-chicken-music-disc/issues) to help improve this datapack!
+⚠ *Find a bug?* [Create an issue](https://github.com/HazestGod/remove-lava-chicken-music-disc/issues) to help improve this datapack!
